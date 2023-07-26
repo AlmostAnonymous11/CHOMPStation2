@@ -181,6 +181,14 @@
 	voices += "Unidentifiable Voice"
 	speak += "Who is there?"
 	speak += "What is that thing?!"
+	//CHOMPAdd Start
+	speak += "Hello?"
+	speak += "Is that you?"
+	speak += "Huh?"
+	speak += ""
+	//CHOMPAdd End
+	//added lines to hopefully vary the speech
+
 
 //////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////// SPECIAL ITEMS/REAGENTS !!!! ////////////////////////////

@@ -26,3 +26,14 @@ temp.dmi
 
 node_modules/
 package-lock.json
+tgui/packages/tgui-dev-server/link/client.cjs
+config/alienwhitelist.txt
+tgui/packages/tgui-dev-server/link/client.cjs
+tgui/packages/tgfont/mkdist.cjs
+tgui/packages/tgfont/config.cjs
+tgui/packages/common/string.babel-plugin.cjs
+config/jukebox.json
+config/custom_sprites.txt
+config/custom_items.txt
+config/alienwhitelist.txt
+config/alienwhitelist.txt
